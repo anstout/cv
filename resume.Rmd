@@ -55,9 +55,7 @@ Contact {#contact}
 
 
 - <i class="fa fa-envelope"></i> anstout@asu.edu
-# - <i class="fa fa-twitter"></i> 
 - <i class="fa fa-github"></i> github.com/anstout
-# - <i class="fa fa-link"></i> [nickstrayer.me](http://nickstrayer.me/)
 - <i class="fa fa-phone"></i> (000) 000-0000
 
 
